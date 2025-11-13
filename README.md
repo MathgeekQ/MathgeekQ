@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Temitope Comfort Iroko
 
-PhD student in Mathematics at the University of Wisconsin–Milwaukee. My research focus on: **stochastic control and robust optimization**, **numerical methods**, **applied probability**, **quantitaive finance and actuarial science**, **machine learning**, and **mathematical biology**.
+PhD student in Mathematics at the University of Wisconsin–Milwaukee. My research focus on: **stochastic control and robust optimization**, **numerical analysis**, **applied probability**, **Optimization**, **machine learning**, and **mathematical biology**.
 
 ---
 
